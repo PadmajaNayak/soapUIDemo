@@ -1,0 +1,34 @@
+Status: FAILED
+Time Taken: 21393
+Size: 0
+Timestamp: Wed Jul 28 10:13:08 IST 2021
+TestStep: Add - Add1
+
+----------------- Messages ------------------------------
+org.apache.http.conn.HttpHostConnectException: Connection to http://www.dneonline.com refused
+
+----------------- Properties ------------------------------
+Endpoint: http://www.dneonline.com/calculator.asmx
+Encoding: UTF-8
+
+---------------- Request ---------------------------
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">
+   \r
+   <soapenv:Header/>
+   \r
+   <soapenv:Body>
+      \r
+      <tem:Add>
+         \r
+         <tem:intA>11</tem:intA>
+         \r
+         <tem:intB>6</tem:intB>
+         \r
+      </tem:Add>
+      \r
+   </soapenv:Body>
+   \r
+</soapenv:Envelope>
+
+---------------- Response --------------------------
+- missing response / garbage collected -

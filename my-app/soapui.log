@@ -1,0 +1,26 @@
+2021-07-28 10:21:52,310 WARN  [SoapUI] Missing folder [C:\Users\PadmajaNayak\Desktop\soapProject\my-app\ext] for external libraries
+2021-07-28 10:21:52,458 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\PadmajaNayak\soapui-settings.xml]
+2021-07-28 10:21:52,993 INFO  [WsdlProject] Loaded project from [file:/C:/Users/PadmajaNayak/Desktop/soapProject/my-app/calculator-soapui-project.xml]
+2021-07-28 10:21:53,185 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [calculator]
+2021-07-28 10:21:53,187 INFO  [SoapUITestCaseRunner] Running Project [calculator], runType = SEQUENTIAL
+2021-07-28 10:21:53,205 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2021-07-28 10:21:53,212 INFO  [SoapUITestCaseRunner] running step [Add - Add1]
+2021-07-28 10:22:00,873 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-07-28 10:22:00,873 INFO  [SoapUITestCaseRunner] running step [Divide - Divide1]
+2021-07-28 10:22:01,465 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-07-28 10:22:01,465 INFO  [SoapUITestCaseRunner] running step [Multiply - Multiply1]
+2021-07-28 10:22:02,064 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-07-28 10:22:02,066 INFO  [SoapUITestCaseRunner] running step [Subtract - Subtract 1]
+2021-07-28 10:22:02,663 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-07-28 10:22:02,665 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 9437ms, status: FINISHED
+2021-07-28 10:22:02,669 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2021-07-28 10:22:02,672 INFO  [SoapUITestCaseRunner] running step [Add - Add1]
+2021-07-28 10:22:03,270 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-07-28 10:22:03,271 INFO  [SoapUITestCaseRunner] running step [Divide - Divide1]
+2021-07-28 10:22:03,813 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-07-28 10:22:03,813 INFO  [SoapUITestCaseRunner] running step [Multiply - Multiply1]
+2021-07-28 10:22:04,486 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-07-28 10:22:04,486 INFO  [SoapUITestCaseRunner] running step [Subtract - Subtract 1]
+2021-07-28 10:22:05,115 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-07-28 10:22:05,117 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 2434ms, status: FINISHED
+2021-07-28 10:22:05,118 INFO  [SoapUITestCaseRunner] Project [calculator] finished with status [FINISHED] in 11926ms
